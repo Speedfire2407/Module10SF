@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1.csproj", "{0D70B5AE-0005-4064-89C9-D5E9EE7E9822}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCast", "..\Task2\ScreenCast.csproj", "{5DB694C3-DE53-49A1-997E-D2B3BCCCA7CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D70B5AE-0005-4064-89C9-D5E9EE7E9822}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D70B5AE-0005-4064-89C9-D5E9EE7E9822}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D70B5AE-0005-4064-89C9-D5E9EE7E9822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB694C3-DE53-49A1-997E-D2B3BCCCA7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB694C3-DE53-49A1-997E-D2B3BCCCA7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB694C3-DE53-49A1-997E-D2B3BCCCA7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB694C3-DE53-49A1-997E-D2B3BCCCA7CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
